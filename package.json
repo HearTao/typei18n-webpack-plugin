@@ -1,0 +1,33 @@
+{
+  "name": "typei18n-webpack-plugin",
+  "version": "0.0.1",
+  "description": "webpack plugin for type18n",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HearTao/typei18n-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HearTao/typei18n-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/HearTao/typei18n-webpack-plugin#readme",
+  "devDependencies": {
+    "@types/glob": "^7.1.1",
+    "@types/node": "^11.13.4",
+    "@types/webpack": "^4.4.27",
+    "typei18n": "^1.0.6",
+    "typescript": "^3.4.3",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "glob": "^7.1.3"
+  },
+  "peerDependencies": {
+    "webpack": "*",
+    "typescript": "*"
+  }
+}
